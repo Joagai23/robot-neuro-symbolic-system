@@ -1,0 +1,3 @@
+NiryoImageCapture imageInput
+---
+moveit_msgs/RobotTrajectory[] trajectories

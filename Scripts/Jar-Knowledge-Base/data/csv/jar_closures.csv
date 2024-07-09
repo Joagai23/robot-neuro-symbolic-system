@@ -1,0 +1,144 @@
+,Material,Color,Type,Lift,Unscrew,Pull,Puncture
+0,Metal,Gold,Wiss,True,False,False,True
+1,Metal,Gold,Wiss,True,False,False,True
+2,Metal,Gold,Wiss,True,False,False,True
+3,Plastic,Orange,Rubber Ring,True,False,True,False
+4,Plastic,Orange,Rubber Ring,True,False,True,False
+5,Plastic,Orange,Rubber Ring,True,False,True,False
+6,Metal,Gold,Wiss,True,False,False,True
+7,Metal,Gold,Wiss,True,False,False,True
+8,Metal,Gold,Wiss,True,False,False,True
+9,Metal,Gold,Wiss,True,False,False,True
+10,Plastic,Yellow,Twist Off,True,True,False,False
+11,Plastic,Yellow,Twist Off,True,True,False,False
+12,Plastic,Orange,Twist Off,True,True,False,False
+13,Plastic,Orange,Twist Off,True,True,False,False
+14,Plastic,Pink,Twist Off,True,True,False,False
+15,Plastic,Pink,Twist Off,True,True,False,False
+16,Plastic,Green,Twist Off,True,True,False,False
+17,Plastic,Green,Twist Off,True,True,False,False
+18,Plastic,Transparent,Twist Off,True,True,False,False
+19,Plastic,Transparent,Twist Off,True,True,False,False
+20,Plastic,White,Twist Off,True,True,False,False
+21,Plastic,White,Twist Off,True,True,False,False
+22,Plastic,White,Twist Off,True,True,False,False
+23,Plastic,White,Twist Off,True,True,False,False
+24,Metal,White,Twist Off,True,True,False,False
+25,Metal,White,Twist Off,True,True,False,False
+26,Metal,White,Twist Off,True,True,False,False
+27,Metal,White,Twist Off,True,True,False,False
+28,Metal,Gold,Twist Off,True,True,False,False
+29,Metal,Gold,Twist Off,True,True,False,False
+30,Metal,White,Twist Off,True,True,False,False
+31,Metal,White,Twist Off,True,True,False,False
+32,Metal,Gold,Twist Off,True,True,False,False
+33,Metal,Gold,Twist Off,True,True,False,False
+34,Metal,Black,Twist Off,True,True,False,False
+35,Metal,White,Twist Off,True,True,False,False
+36,Metal,White,Twist Off,True,True,False,False
+37,Metal,White,Twist Off,True,True,False,False
+38,Metal,Gold,Twist Off,True,True,False,False
+39,Metal,Gold,Twist Off,True,True,False,False
+40,Metal,Black,Twist Off,True,True,False,False
+41,Metal,White,Twist Off,True,True,False,False
+42,Metal,White,Twist Off,True,True,False,False
+43,Metal,Gold,Twist Off,True,True,False,False
+44,Metal,Black,Twist Off,True,True,False,False
+45,Metal,Gold,Twist Off,True,True,False,False
+46,Metal,Black,Twist Off,True,True,False,False
+47,Metal,Black,Twist Off,True,True,False,False
+48,Metal,Silver,Twist Off,True,True,False,False
+49,Metal,White,Twist Off,True,True,False,False
+50,Metal,White,Twist Off,True,True,False,False
+51,Metal,Gold,Twist Off,True,True,False,False
+52,Metal,Gold,Twist Off,True,True,False,False
+53,Metal,Black,Twist Off,True,True,False,False
+54,Metal,Black,Twist Off,True,True,False,False
+55,Metal,Black,Twist Off,True,True,False,False
+56,Metal,Red,Twist Off,True,True,False,False
+57,Metal,Gold,Twist Off,True,True,False,False
+58,Metal,Gold,Twist Off,True,True,False,False
+59,Metal,White,Twist Off,True,True,False,False
+60,Metal,White,Twist Off,True,True,False,False
+61,Metal,White,Twist Off,True,True,False,False
+62,Metal,Gold,Twist Off,True,True,False,False
+63,Metal,Gold,Twist Off,True,True,False,False
+64,Metal,Gold,Twist Off,True,True,False,False
+65,Metal,Gold,Twist Off,True,True,False,False
+66,Metal,Black,Twist Off,True,True,False,False
+67,Metal,Silver,Twist Off,True,True,False,False
+68,Metal,Gold,Twist Off,True,True,False,False
+69,Metal,White,Twist Off,True,True,False,False
+70,Metal,White,Twist Off,True,True,False,False
+71,Metal,White,Twist Off,True,True,False,False
+72,Metal,White,Twist Off,True,True,False,False
+73,Metal,Gold,Twist Off,True,True,False,False
+74,Metal,Gold,Twist Off,True,True,False,False
+75,Metal,Gold,Twist Off,True,True,False,False
+76,Metal,Gold,Twist Off,True,True,False,False
+77,Metal,Black,Twist Off,True,True,False,False
+78,Metal,Silver,Twist Off,True,True,False,False
+79,Metal,Red,Twist Off,True,True,False,False
+80,Metal,Black,Twist Off,True,True,False,False
+81,Metal,Gold,Twist Off,True,True,False,False
+82,Metal,Gold,Twist Off,True,True,False,False
+83,Metal,Black,Twist Off,True,True,False,False
+84,Metal,Silver,Twist Off,True,True,False,False
+85,Metal,Black,Twist Off,True,True,False,False
+86,Metal,Silver,Twist Off,True,True,False,False
+87,Metal,Gold,Twist Off,True,True,False,False
+88,Metal,Silver,Twist Off,True,True,False,False
+89,Metal,Gold,Twist Off,True,True,False,False
+90,Metal,White,Twist Off,True,True,False,False
+91,Metal,White,Twist Off,True,True,False,False
+92,Metal,Gold,Twist Off,True,True,False,False
+93,Metal,Gold,Twist Off,True,True,False,False
+94,Metal,Gold,Twist Off,True,True,False,False
+95,Metal,Gold,Twist Off,True,True,False,False
+96,Metal,Black,Twist Off,True,True,False,False
+97,Metal,Silver,Twist Off,True,True,False,False
+98,Metal,Green,Twist Off,True,True,False,False
+99,Metal,White,Twist Off,True,True,False,False
+100,Metal,White,Twist Off,True,True,False,False
+101,Metal,White,Twist Off,True,True,False,False
+102,Metal,Gold,Twist Off,True,True,False,False
+103,Metal,Gold,Twist Off,True,True,False,False
+104,Metal,Gold,Twist Off,True,True,False,False
+105,Metal,Black,Twist Off,True,True,False,False
+106,Metal,Silver,Twist Off,True,True,False,False
+107,Metal,Red,Twist Off,True,True,False,False
+108,Plastic,White,Twist Off,True,True,False,False
+109,Metal,White,Twist Off,True,True,False,False
+110,Metal,White,Twist Off,True,True,False,False
+111,Metal,Gold,Twist Off,True,True,False,False
+112,Metal,White,Twist Off,True,True,False,False
+113,Metal,Gold,Twist Off,True,True,False,False
+114,Metal,Gold,Twist Off,True,True,False,False
+115,Metal,Black,Twist Off,True,True,False,False
+116,Metal,White,Twist Off,True,True,False,False
+117,Metal,White,Twist Off,True,True,False,False
+118,Metal,Gold,Twist Off,True,True,False,False
+119,Metal,Gold,Twist Off,True,True,False,False
+120,Plastic,Orange,Rubber Ring,True,False,True,False
+121,Plastic,Orange,Rubber Ring,True,False,True,False
+122,Plastic,Orange,Rubber Ring,True,False,True,False
+123,Plastic,Orange,Rubber Ring,True,False,True,False
+124,Plastic,Orange,Rubber Ring,True,False,True,False
+125,Cork,Brown,Weck,True,False,False,False
+126,Cork,Brown,Weck,True,False,False,False
+127,Cork,Brown,Weck,True,False,False,False
+128,Glass,White,Weck,True,False,False,False
+129,Glass,White,Weck,True,False,False,False
+130,Glass,White,Weck,True,False,False,False
+131,Glass,White,Weck,True,False,False,False
+132,Glass,White,Weck,True,False,False,False
+133,Wood,Brown,Weck,True,False,False,False
+134,Wood,Brown,Weck,True,False,False,False
+135,Plastic,White,Weck,True,False,False,False
+136,Plastic,White,Weck,True,False,False,False
+137,Plastic,White,Weck,True,False,False,False
+138,Plastic,White,Weck,True,False,False,False
+139,Plastic,White,Weck,True,False,False,False
+140,Plastic,Transparent,Weck,True,False,False,False
+141,Plastic,Transparent,Weck,True,False,False,False
+142,Plastic,Transparent,Weck,True,False,False,False

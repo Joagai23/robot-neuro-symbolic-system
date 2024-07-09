@@ -1,0 +1,16 @@
+newmtl Cork_a6e1c1f1-1504-486d-b12e-fe44b8d2ca07
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cork001_1K_Color&Cork001_1K_Color_1_opacity.png
+newmtl Glass 1_b72cf62f-b837-425e-9e85-eff7c0a10cbb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Heart material_d2613ec1-de93-421a-8450-08cf9e97b4a0
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd others_0001_base_color_2k.jpg
+newmtl Water material_627d3667-f266-4ea4-a9fd-81ff92cc37af
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture_1.png

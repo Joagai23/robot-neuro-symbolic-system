@@ -1,0 +1,350 @@
+,Material,Color,Finish,Shape,Capacity,Weight,Height,Grasp,Swing
+0,Glass,White,Twist Off,Curved,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+1,Glass,White,Swing Top,Cylindrical,<= 250 mL,250 - 500 g,50 - 100 mm,True,True
+2,Glass,White,Swing Top,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,True
+3,Glass,White,Swing Top,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,True
+4,Glass,White,Swing Top,Cylindrical,500 - 750 mL,500 - 750 g,100 - 150 mm,True,True
+5,Glass,White,Swing Top,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,True
+6,Glass,White,Swing Top,Cylindrical,750 - 1000 mL,500 - 750 g,100 - 150 mm,True,True
+7,Glass,White,Swing Top,Cylindrical,750 - 1000 mL,500 - 750 g,100 - 150 mm,True,True
+8,Glass,White,Swing Top,Cylindrical,>= 1000 mL,750 - 1000 g,150 - 200 mm,True,True
+9,Glass,White,Swing Top,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,True
+10,Glass,White,Twist Off,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+11,Glass,White,Twist Off,Curved,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+12,Glass,White,Twist Off,Rectangular,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+13,Glass,White,Swing Top,Cylindrical,>= 1000 mL,750 - 1000 g,>= 200 mm,True,True
+14,Glass,White,Swing Top,Cylindrical,>= 1000 mL,>= 1000 g,>= 200 mm,True,True
+15,Glass,White,Twist Off,Curved,>= 1000 mL,>= 1000 g,>= 200 mm,True,False
+16,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+17,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+18,Glass,White,Twist Off,Octogonal,<= 250 mL,<= 250 g,<= 50 mm,True,False
+19,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+20,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,<= 50 mm,True,False
+21,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+22,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+23,Glass,White,Twist Off,Hexagonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+24,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+25,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+26,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+27,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+28,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+29,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+30,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+31,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,<= 50 mm,True,False
+32,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+33,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+34,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+35,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+36,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+37,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+38,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+39,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+40,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+41,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+42,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+43,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+44,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+45,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+46,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+47,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+48,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+49,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+50,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+51,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+52,Glass,White,Twist Off,Hexagonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+53,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+54,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+55,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+56,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+57,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+58,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+59,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+60,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+61,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+62,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+63,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+64,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+65,Glass,White,Twist Off,Square,<= 250 mL,250 - 500 g,50 - 100 mm,True,False
+66,Glass,White,Twist Off,Hexagonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+67,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+68,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+69,Glass,White,Twist Off,Hexagonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+70,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+71,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+72,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+73,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+74,Glass,White,Swing Top,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,True
+75,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+76,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+77,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+78,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+79,Glass,White,Swing Top,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,True
+80,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+81,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+82,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+83,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+84,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+85,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+86,Plastic,Transparent,Sprayer,Oval,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+87,Plastic,Transparent,Sprayer,Oval,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+88,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+89,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+90,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+91,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+92,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+93,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+94,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+95,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+96,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+97,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+98,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+99,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+100,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+101,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+102,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+103,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+104,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+105,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+106,Glass,White,Swing Top,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,True
+107,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+108,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,<= 50 mm,True,False
+109,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+110,Glass,White,Twist Off,Hexagonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+111,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+112,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+113,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,150 - 200 mm,True,False
+114,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+115,Glass,White,Swing Top,Cylindrical,<= 250 mL,250 - 500 g,50 - 100 mm,True,True
+116,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+117,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+118,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+119,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+120,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,150 - 200 mm,True,False
+121,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+122,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+123,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+124,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+125,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+126,Glass,White,Twist Off,Octogonal,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+127,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+128,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+129,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+130,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+131,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+132,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+133,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+134,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+135,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+136,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+137,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+138,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+139,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+140,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+141,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+142,Glass,White,Twist Off,Square,<= 250 mL,250 - 500 g,50 - 100 mm,True,False
+143,Glass,White,Twist Off,Cylindrical,<= 250 mL,250 - 500 g,50 - 100 mm,True,False
+144,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+145,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+146,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+147,Glass,White,Rubber Ring,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+148,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+149,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+150,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+151,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+152,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+153,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+154,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+155,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+156,Glass,White,Wiss,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+157,Plastic,Transparent,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+158,Plastic,Transparent,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+159,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+160,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+161,Glass,White,Twist Off,Complex,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+162,Glass,White,Twist Off,Cylindrical,<= 250 mL,<= 250 g,100 - 150 mm,True,False
+163,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+164,Glass,White,Twist Off,Square,<= 250 mL,<= 250 g,50 - 100 mm,True,False
+165,Glass,White,Swing Top,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,True
+166,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+167,Glass,White,Twist Off,Hexagonal,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+168,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+169,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+170,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+171,Glass,White,Swing Top,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,True
+172,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+173,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+174,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+175,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+176,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+177,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+178,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+179,Glass,White,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+180,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+181,Glass,White,Twist Off,Faceted,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+182,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+183,Glass,White,Twist Off,Hexagonal,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+184,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+185,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+186,Glass,White,Rubber Ring,Square,250 - 500 mL,250 - 500 g,<= 50 mm,True,False
+187,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+188,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+189,Plastic,Transparent,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+190,Glass,White,Twist Off,Conical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+191,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,<= 50 mm,True,False
+192,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,>= 200 mm,True,False
+193,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+194,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+195,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+196,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+197,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+198,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+199,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+200,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+201,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+202,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+203,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+204,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+205,Glass,White,Twist Off,Rectangular,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+206,Glass,Black,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+207,Glass,White,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+208,Glass,White,Twist Off,Conical,250 - 500 mL,250 - 500 g,>= 200 mm,True,False
+209,Glass,White,Twist Off,Conical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+210,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+211,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+212,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+213,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+214,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+215,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+216,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+217,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+218,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+219,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+220,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+221,Glass,White,Twist Off,Complex,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+222,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+223,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+224,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+225,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+226,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+227,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+228,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+229,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+230,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+231,Glass,White,Twist Off,Oval,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+232,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+233,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+234,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+235,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+236,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+237,Glass,White,Twist Off,Complex,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+238,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+239,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+240,Glass,White,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,150 - 200 mm,True,False
+241,Glass,White,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,150 - 200 mm,True,False
+242,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+243,Glass,White,Swing Top,Cylindrical,250 - 500 mL,250 - 500 g,100 - 150 mm,True,True
+244,Glass,White,Twist Off,Square,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+245,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+246,Glass,White,Twist Off,Hexagonal,250 - 500 mL,250 - 500 g,50 - 100 mm,True,False
+247,Plastic,Transparent,Twist Off,Square,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+248,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+249,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+250,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+251,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+252,Glass,White,Twist Off,Hexagonal,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+253,Glass,White,Swing Top,Cylindrical,250 - 500 mL,250 - 500 g,50 - 100 mm,True,True
+254,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+255,Glass,White,Wiss,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+256,Glass,White,Wiss,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+257,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+258,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
+259,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+260,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+261,Glass,White,Swing Top,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,True
+262,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+263,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+264,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+265,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+266,Glass,White,Twist Off,Cylindrical,250 - 500 mL,<= 250 g,100 - 150 mm,True,False
+267,Plastic,Transparent,Sprayer,Cylindrical,250 - 500 mL,<= 250 g,150 - 200 mm,True,False
+268,Glass,White,Twist Off,Cylindrical,250 - 500 mL,250 - 500 g,150 - 200 mm,True,False
+269,Glass,White,Twist Off,Square,250 - 500 mL,250 - 500 g,100 - 150 mm,True,False
+270,Glass,White,Twist Off,Cylindrical,500 - 750 mL,<= 250 g,100 - 150 mm,True,False
+271,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+272,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+273,Glass,White,Wiss,Cylindrical,500 - 750 mL,250 - 500 g,50 - 100 mm,True,False
+274,Glass,White,Rubber Ring,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+275,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,50 - 100 mm,True,False
+276,Glass,White,Twist Off,Cylindrical,500 - 750 mL,<= 250 g,100 - 150 mm,True,False
+277,Glass,White,Twist Off,Cylindrical,500 - 750 mL,<= 250 g,100 - 150 mm,True,False
+278,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+279,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+280,Glass,White,Twist Off,Complex,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+281,Glass,White,Twist Off,Conical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+282,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+283,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+284,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+285,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,50 - 100 mm,True,False
+286,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+287,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+288,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+289,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,>= 200 mm,True,False
+290,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,50 - 100 mm,True,False
+291,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,50 - 100 mm,True,False
+292,Glass,White,Rubber Ring,Cylindrical,500 - 750 mL,250 - 500 g,>= 200 mm,True,False
+293,Glass,White,Twist Off,Cylindrical,500 - 750 mL,<= 250 g,150 - 200 mm,True,False
+294,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+295,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+296,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+297,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+298,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+299,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+300,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+301,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+302,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+303,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,150 - 200 mm,True,False
+304,Glass,White,Twist Off,Hexagonal,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+305,Glass,White,Twist Off,Hexagonal,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+306,Glass,White,Twist Off,Oval,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+307,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+308,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+309,Glass,White,Twist Off,Cylindrical,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+310,Glass,White,Twist Off,Hexagonal,750 - 1000 mL,250 - 500 g,100 - 150 mm,True,False
+311,Glass,White,Rubber Ring,Square,750 - 1000 mL,500 - 750 g,150 - 200 mm,True,False
+312,Glass,White,Wiss,Cylindrical,750 - 1000 mL,250 - 500 g,100 - 150 mm,True,False
+313,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,100 - 150 mm,True,False
+314,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,150 - 200 mm,True,False
+315,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,150 - 200 mm,True,False
+316,Glass,White,Rubber Ring,Cylindrical,750 - 1000 mL,500 - 750 g,100 - 150 mm,True,False
+317,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,150 - 200 mm,True,False
+318,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,150 - 200 mm,True,False
+319,Glass,White,Twist Off,Cylindrical,750 - 1000 mL,250 - 500 g,150 - 200 mm,True,False
+320,Glass,White,Twist Off,Cylindrical,>= 1000 mL,250 - 500 g,50 - 100 mm,True,False
+321,Glass,White,Twist Off,Cylindrical,>= 1000 mL,250 - 500 g,50 - 100 mm,True,False
+322,Glass,White,Twist Off,Square,>= 1000 mL,250 - 500 g,150 - 200 mm,True,False
+323,Glass,White,Twist Off,Cylindrical,>= 1000 mL,250 - 500 g,150 - 200 mm,True,False
+324,Glass,White,Wiss,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+325,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+326,Glass,White,Twist Off,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+327,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+328,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,500 - 750 g,100 - 150 mm,True,False
+329,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,500 - 750 g,100 - 150 mm,True,False
+330,Glass,White,Swing Top,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,True
+331,Glass,White,Wiss,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+332,Glass,White,Twist Off,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+333,Glass,White,Twist Off,Square,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+334,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+335,Glass,White,Wiss,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+336,Glass,White,Twist Off,Hexagonal,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+337,Glass,White,Twist Off,Cylindrical,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+338,Glass,White,Twist Off,Complex,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+339,Glass,White,Twist Off,Hexagonal,>= 1000 mL,500 - 750 g,150 - 200 mm,True,False
+340,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,750 - 1000 g,150 - 200 mm,True,False
+341,Glass,White,Twist Off,Cylindrical,>= 1000 mL,500 - 750 g,>= 200 mm,True,False
+342,Glass,White,Twist Off,Oval,>= 1000 mL,750 - 1000 g,>= 200 mm,True,False
+343,Glass,White,Rubber Ring,Cylindrical,>= 1000 mL,<= 250 g,>= 200 mm,True,False
+344,Glass,White,Twist Off,Cylindrical,>= 1000 mL,>= 1000 g,>= 200 mm,True,False
+345,Glass,White,Twist Off,Cylindrical,>= 1000 mL,>= 1000 g,>= 200 mm,True,False
+346,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+347,Glass,White,Twist Off,Square,500 - 750 mL,250 - 500 g,100 - 150 mm,True,False
+348,Glass,White,Rubber Ring,Cylindrical,250 - 500 mL,<= 250 g,50 - 100 mm,True,False
